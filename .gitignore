@@ -1,0 +1,36 @@
+﻿# Entorno virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Backups locales
+backups/
+
+# Dataset pesado
+data/raw/
+data/processed/
+data/splits/
+
+# Variables de entorno
+.env
+
+# Archivos de auditoria con imagenes copiadas
+reports/misclassified/
+
+# Imagenes sueltas no usadas en el pipeline final
+data/extra/

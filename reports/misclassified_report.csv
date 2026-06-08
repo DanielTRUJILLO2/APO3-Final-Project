@@ -1,0 +1,17 @@
+model,image,real,predicted,confidence,copied_to
+cnn,apple_good_038.jpg,bueno,malo,0.6936377882957458,reports\misclassified\cnn\real_bueno_pred_malo\apple_good_038.jpg
+cnn,pomegranate_good_785.jpg,bueno,malo,0.6757139563560486,reports\misclassified\cnn\real_bueno_pred_malo\pomegranate_good_785.jpg
+cnn,apple_regular_052.jpg,regular,malo,0.6911705732345581,reports\misclassified\cnn\real_regular_pred_malo\apple_regular_052.jpg
+cnn,apple_regular_730.jpg,regular,malo,0.6549082398414612,reports\misclassified\cnn\real_regular_pred_malo\apple_regular_730.jpg
+cnn,banana_regular_345.jpeg,regular,bueno,0.8163827061653137,reports\misclassified\cnn\real_regular_pred_bueno\banana_regular_345.jpeg
+cnn,banana_regular_352.jpeg,regular,bueno,0.9976886510848999,reports\misclassified\cnn\real_regular_pred_bueno\banana_regular_352.jpeg
+cnn,banana_regular_566.jpg,regular,malo,0.5977149605751038,reports\misclassified\cnn\real_regular_pred_malo\banana_regular_566.jpg
+cnn,guava_regular_115.jpg,regular,bueno,0.965760350227356,reports\misclassified\cnn\real_regular_pred_bueno\guava_regular_115.jpg
+cnn,guava_regular_197.jpg,regular,malo,0.7007856965065002,reports\misclassified\cnn\real_regular_pred_malo\guava_regular_197.jpg
+cnn,lime_regular_038.jpg,regular,malo,0.5212374925613403,reports\misclassified\cnn\real_regular_pred_malo\lime_regular_038.jpg
+cnn,apple_bad_098.png,malo,regular,0.7121779322624207,reports\misclassified\cnn\real_malo_pred_regular\apple_bad_098.png
+cnn,banana_bad_450.jpg,malo,regular,0.6392191648483276,reports\misclassified\cnn\real_malo_pred_regular\banana_bad_450.jpg
+cnn,lime_bad_061.jpg,malo,regular,0.5623989701271057,reports\misclassified\cnn\real_malo_pred_regular\lime_bad_061.jpg
+cnn,orange_bad_015.jpeg,malo,regular,0.8781604170799255,reports\misclassified\cnn\real_malo_pred_regular\orange_bad_015.jpeg
+cnn,orange_bad_025.jpeg,malo,regular,0.5381057858467102,reports\misclassified\cnn\real_malo_pred_regular\orange_bad_025.jpeg
+cnn,orange_bad_028.jpeg,malo,regular,0.5750170350074768,reports\misclassified\cnn\real_malo_pred_regular\orange_bad_028.jpeg
